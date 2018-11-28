@@ -1,0 +1,7 @@
+id=ZawgyiFont
+name=Oxygen Zawgyi
+version=v1
+versionCode=1
+author=kaiz16
+description=Replace Unicode font with Zawgyi font Systemlessly
+minMagisk=17000
